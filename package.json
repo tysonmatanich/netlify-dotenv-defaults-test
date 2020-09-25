@@ -1,0 +1,14 @@
+{
+  "name": "netlify-dotenv-defaults-test",
+  "version": "0.0.0",
+  "description": "",
+  "license": "",
+  "scripts": {
+    "dev": "netlify dev"
+  },
+  "devDependencies": {
+    "dotenv-defaults": "^2.0.1",
+    "netlify-plugin-inline-functions-env": "^1.0.4"
+  },
+  "dependencies": {}
+}

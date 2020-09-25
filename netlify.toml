@@ -1,0 +1,8 @@
+[build]
+functions = "functions/"
+
+[dev]
+port = 8000
+
+[[plugins]]
+package = "netlify-plugin-inline-functions-env"
